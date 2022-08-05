@@ -1,0 +1,63 @@
+body{
+	background-image: linear-gradient(to bottom right, rgb(238, 134, 36), rgb(105, 25, 233));
+	background-repeat: no-repeat;
+	width: 100%;
+	margin: auto;
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+
+
+}
+
+
+.Info{
+	align-self: center;
+	padding: 4px;
+	border:inset 3px rgb(31, 136, 255);
+}
+
+
+#PFP{
+	width:20%;
+	align-self: center;
+	margin-bottom: 35px;
+	border:dotted 5px rgb(253, 141, 210);
+}
+
+#header{
+	display: flex;
+	flex-direction: column;
+
+}
+
+#Me_section{
+	padding:2%;
+	
+	
+}
+
+.About_section{
+	font-size:15px;
+	padding:6px;
+	border: 4px dashed rgb(83, 7, 170);
+	border-radius: 15px 50px 30px 5px;
+	margin-bottom: 7%;
+
+}
+
+
+.Experience {
+	font-size:15px;
+	padding:6px;
+	border: 4px dashed rgb(190, 155, 229);
+	border-radius: 15px 50px 30px 5px;
+	margin-bottom: 7%;
+
+}
+
+.Contact{
+	font-size:15px;
+	padding:6px;
+	border: 4px dashed rgb(64, 209, 235);
+	border-radius: 15px 50px 30px 9px;
+	margin-bottom:7%;
+}
